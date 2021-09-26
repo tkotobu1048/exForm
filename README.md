@@ -1,5 +1,5 @@
 # exForm
-it is a tool for create TLF(Thinreports layout) from ImageFile(PNG).
+it is a tool for create Thinreports layout(TLF) from ImageFile(PNG).
 extract lines( horizontal / vertical ).
 
 ## support format: 
