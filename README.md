@@ -1,5 +1,5 @@
 # exForm
-create TLF(Thinreports layout) from ImageFile(PNG) tool  
+create TLF(Thinreports layout) tool from ImageFile(PNG)
 extract lines( horizontal / vertical )
 
 ## support format: 
